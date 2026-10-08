@@ -87,3 +87,6 @@ Les types de recherche (e-mail, pseudo, téléphone, domaine, hash) sont filtré
 ## Légalité
 
 Réservé à la défense de vos propres comptes ou de domaines que vous administrez. Vous êtes responsable du respect des conditions de chaque fournisseur et du droit applicable.
+
+---
+**vibe coded**
