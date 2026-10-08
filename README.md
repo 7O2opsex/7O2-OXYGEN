@@ -1,6 +1,6 @@
 # 7O2 OXYGEN
 
-**Full vibe coded 🔥**
+**vibe coded**
 
 Application **desktop Windows** pour vérifier si **vos** identifiants (e-mail, pseudo, téléphone, domaine, hash) apparaissent dans des fuites. Usage légitime uniquement : vos comptes, votre domaine. Ne l'utilisez pas pour chercher des tiers sans droit.
 
